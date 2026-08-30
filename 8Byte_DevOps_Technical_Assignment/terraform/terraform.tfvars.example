@@ -1,0 +1,10 @@
+aws_region          = "ap-south-1"
+project             = "8byte"
+environment         = "staging"
+ec2_ami_id          = "ami-CHANGE_ME"
+db_name             = "appdb"
+db_username         = "appadmin"
+db_password         = "CHANGE_ME_USE_A_SECRET_MANAGER_VALUE"
+alert_email         = "candidate@example.com"
+# acm_certificate_arn = "arn:aws:acm:ap-south-1:ACCOUNT:certificate/CHANGE_ME"
+# rds_multi_az = true

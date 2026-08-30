@@ -1,0 +1,5 @@
+bucket         = "CHANGE_ME_STATE_BUCKET"
+key            = "8byte/staging/terraform.tfstate"
+region         = "ap-south-1"
+dynamodb_table = "8byte-terraform-locks"
+encrypt        = true

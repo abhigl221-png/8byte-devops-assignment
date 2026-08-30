@@ -1,0 +1,2 @@
+state_bucket_name = "CHANGE_ME-globally-unique-terraform-state"
+lock_table_name   = "8byte-terraform-locks"
